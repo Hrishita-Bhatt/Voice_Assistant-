@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+textblob
+requests
+pyaudio
+pytesseract
+pillow
+keyboard
+googlesearch-python
